@@ -76,7 +76,7 @@ export default function App() {
             <a href="#servicios" className="hover:text-white transition-colors">Servicios</a>
             <a href="#portafolio" className="hover:text-white transition-colors">Portafolio</a>
             <a href="#contacto" className="hover:text-white transition-colors">Contacto</a>
-            <a href="#contacto" className="bg-awis-600 hover:bg-awis-500 text-white px-5 py-2.5 rounded-full transition-all">
+            <a href="https://wa.me/56939580988" target="_blank" rel="noopener noreferrer" className="bg-emerald-600 hover:bg-emerald-500 text-white px-5 py-2.5 rounded-full transition-all">
               Agendar Llamada
             </a>
           </div>
@@ -264,8 +264,8 @@ export default function App() {
               <Mail className="w-5 h-5" />
               Contactar a Armin
             </a>
-            <a href="#" className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-slate-900 border border-slate-800 hover:bg-slate-800 text-white px-8 py-4 rounded-full font-medium text-lg transition-colors">
-              Agendar en Calendly
+            <a href="https://wa.me/56939580988" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-emerald-600 hover:bg-emerald-500 text-white px-8 py-4 rounded-full font-medium text-lg transition-colors">
+              Agendar Llamada
             </a>
           </div>
         </div>
